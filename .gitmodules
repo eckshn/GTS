@@ -1,0 +1,3 @@
+[submodule "pokemon-tcg-pocket-card-database"]
+	path = pokemon-tcg-pocket-card-database
+	url = https://github.com/hugoburguete/pokemon-tcg-pocket-card-database.git
